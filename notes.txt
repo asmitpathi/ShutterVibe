@@ -1,0 +1,6 @@
+To install react router:
+npm install react-router-dom
+
+Here, we use layout.jsx so that we do not have to include header and footer in all the pages(home, about, contact us, etc) since we want header and footer to be same in all the pages
+
+react loader- helps to fetch api in an optimised way(refer chai aur react video12 toward the end)
