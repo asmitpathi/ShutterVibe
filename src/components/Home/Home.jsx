@@ -32,20 +32,20 @@ function Home() {
                 </div>
 
                 <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
-                    <img className="w-150" src="1.jpg" alt="image1" />
+                    <img className="w-150" src="/images/1.jpg" alt="image1" />
                 </div>
                 
             </aside>
 
             <div className='flex pb-10 justify-evenly'>
                 <div className="grid place-items-center sm:mt-20">
-                    <img className="sm:w-96 w-48" src="2.jpg" alt="image2" />
+                    <img className="sm:w-96 w-48" src="/images/2.jpg" alt="image2" />
                 </div>
                 <div className="grid place-items-center sm:mt-20">
-                    <img className="sm:w-96 w-48" src="3.jpg" alt="image2" />
+                    <img className="sm:w-96 w-48" src="/images/3.jpg" alt="image2" />
                 </div>
                 <div className="grid place-items-center sm:mt-20">
-                    <img className="sm:w-96 w-48" src="4.jpeg" alt="image2" />
+                    <img className="sm:w-96 w-48" src="/images/4.jpeg" alt="image2" />
                 </div>
             </div>
         
